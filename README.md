@@ -1,7 +1,8 @@
 # MultipadMonitor
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+MultipadMonitor is an Ember based web application that leverages the npm module `airplay-server` to capture and display audio/video output from a mobile device and output into an HTML5/Canvas compatible player using the `rtsp` protocol.  When run, it announces itself uses `mDNSresponder` to announce itself as an AirPlay host to iOS and other compatible streaming devices.
+
+The core of for the Airplay integration uses the [airplay-server](https://github.com/watson/airplay-server) 
 
 ## Prerequisites
 
