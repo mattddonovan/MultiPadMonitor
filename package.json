@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/mattddonovan/MultiPadMonitor/issues"
   },
-  "homepage": "https://github.com/mattddonovan/MultiPadMonitor#readme"
+  "homepage": "https://github.com/mattddonovan/MultiPadMonitor#readme",
+  "dependencies": {}
 }
