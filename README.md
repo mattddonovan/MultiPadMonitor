@@ -1,7 +1,6 @@
-# MultiIpadMonitor
+# MultipadMonitor
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+MultipadMonitor is an Ember based web application that leverages the npm modules `airplay-server` and `node-rstp`.  When run, it announces itself uses `mDnsReponder` to announce itself as an AirPlay host to iOS and other compatible streaming devices.
 
 ## Prerequisites
 
