@@ -16,5 +16,7 @@
     "url": "https://github.com/mattddonovan/MultiPadMonitor/issues"
   },
   "homepage": "https://github.com/mattddonovan/MultiPadMonitor#readme",
-  "dependencies": {}
+  "dependencies": {
+    "airplay-server": "^1.1.0"
+  }
 }
