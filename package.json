@@ -1,0 +1,19 @@
+{
+  "name": "multipadmonitor",
+  "version": "1.0.0",
+  "description": "An application to monitor the contents of an iOS device",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattddonovan/MultiPadMonitor.git"
+  },
+  "author": "Matt Donovan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattddonovan/MultiPadMonitor/issues"
+  },
+  "homepage": "https://github.com/mattddonovan/MultiPadMonitor#readme"
+}
